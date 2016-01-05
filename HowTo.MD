@@ -36,6 +36,7 @@ This is the general buttons. Round, and they change to the size of text. Stander
     <button class="btn-flt bad">bad</button>
     <button class="btn-flt danger">danger</button>
 ```
+<<<<<<< HEAD
 
 ```
 This is the regulur sized table. To make it 50% big, do <div id="table50"> and 100% just do <div id="table100">.
@@ -58,3 +59,13 @@ This is the regulur sized table. To make it 50% big, do <div id="table50"> and 1
     </div>
 ```
 
+=======
+That would add a gray background with the text off the left a little bit. and h2 - h6 is added off the h1.
+
+```css
+.mover{
+  margin-left: 8px;
+}```
+If you add a div class called mover, it will move it auto 8px.
+Put you can change it to what you would like in your stylesheet.
+>>>>>>> 0.4
