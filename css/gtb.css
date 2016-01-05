@@ -101,64 +101,87 @@
 }
 
 .standard-gtb {
-  background-color: aqua;
-  border: 5px solid #187b7e;
-  margin-left: -3px;
+  color: #00b1bd;
 }
 
 .standard-gtb:active {
-  background-color: #187b7e;
-  border: 5px solid aqua;
-  color: white;
+  color: #007f83;
 }
 
 .good-gtb {
-  color: lightgreen;
+  color: green;
 }
 
 .good-gtb:active {
-  background: green;
-  border: 5px solid lightgreen;
   color: lightgreen;
 }
 
 .warning-gtb {
-  background: #ffed00;
-  border: 5px solid #ccd700;
-  margin-left: -5px;
+  color: #d7c800;
 }
 
 .warning-gtb:active {
-  background: #ccd700;
-  border: 5px solid #ffed00;
-  color: white;
+  color: #a7b000;
 }
 
 .bad-gtb {
-  background: orange;
-  border: 5px solid #ac6200;
-  margin-left: -5px;
+  color: orange;
 }
 
 .bad-gtb:active {
-  background: #ac6200;
-  border: 5px solid orange;
-  color: white;
+  color: #ac6200;
 }
 
 .danger-gtb {
-  background: red;
-  border: 5px solid #7d0000;
-  margin-left: -5px;
+  color: red;
 }
 
 .danger-gtb:active {
-  background: #7d0000;
-  border: 5px solid red;
-  color: white;
+  color: #7d0000;
 }
 
-#table h1, h2, h3, h4 {
-  color: lightblue; }
+#table h1 {
+  color: #00dbc3;
+}
+
+#table h2 {
+  color: #00dbc3;
+}
+
+#table h3 {
+  color: #00dbc3;
+}
+
+#table100 h1 {
+  color: #00dbc3;
+}
+
+#table100 h2 {
+  color: #00dbc3;
+}
+
+#table100 h3 {
+  color: #00dbc3;
+}
+
+#table100 table {
+  width: 100%;
+}
+
+#table50 h1 {
+  color: #00dbc3;
+}
+
+#table50 h2 {
+  color: #00dbc3;
+}
+
+#table50 h3 {
+  color: #00dbc3;
+}
+
+#table50 table {
+  width: 50%;
+}
 
 /*# sourceMappingURL=gtb.css.map */
