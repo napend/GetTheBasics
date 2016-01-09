@@ -1,8 +1,18 @@
 /*
 Copyright 2016 Napend (Alex Munoz) (alex.munoz905@gmail.com)
 Get the most done with the least amount of code
+VERSION: 0.1
+We also use Raleway google fonts with love and passion.
 */
 
+@import url(https://fonts.googleapis.com/css?family=Raleway);
+
 .container{
-  
+
+  margin-top: 50px;
+  margin-left: 50px;
+  width: 50%;
+  height: 200px;
+  background-color: rgb(221, 221, 221);
+
 }
