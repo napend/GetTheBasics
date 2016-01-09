@@ -18,4 +18,46 @@
   margin-left: 50px;
 }
 
+.btn-gtb {
+  margin-top: 10px;
+  text-align: center;
+  height: 30px;
+  color: black;
+}
+
+.standard {
+  background-color: aqua;
+  -moz-border-radius: 30px;
+  -webkit-border-radius: 50px;
+  border: 5px solid #187b7e;
+}
+
+.good {
+  background: lightgreen;
+  -moz-border-radius: 30px;
+  -webkit-border-radius: 50px;
+  border: 5px solid green;
+}
+
+.warning {
+  background: yellow;
+  -moz-border-radius: 30px;
+  -webkit-border-radius: 50px;
+  border: 5px solid #a4ad00;
+}
+
+.bad {
+  background: orange;
+  -moz-border-radius: 30px;
+  -webkit-border-radius: 50px;
+  border: 5px solid #ac6200;
+}
+
+.danger {
+  background: red;
+  -moz-border-radius: 30px;
+  -webkit-border-radius: 50px;
+  border: 5px solid #7d0000;
+}
+
 /*# sourceMappingURL=gtb.css.map */
