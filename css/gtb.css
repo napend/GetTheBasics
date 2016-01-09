@@ -32,6 +32,14 @@
   border: 5px solid #187b7e;
 }
 
+.standard:active {
+  background-color: #187b7e;
+  -moz-border-radius: 30px;
+  -webkit-border-radius: 50px;
+  border: 5px solid aqua;
+  color: white;
+}
+
 .good {
   background: lightgreen;
   -moz-border-radius: 30px;
@@ -39,11 +47,27 @@
   border: 5px solid green;
 }
 
-.warning {
-  background: yellow;
+.good:active {
+  background: green;
   -moz-border-radius: 30px;
   -webkit-border-radius: 50px;
-  border: 5px solid #a4ad00;
+  border: 5px solid lightgreen;
+  color: white;
+}
+
+.warning {
+  background: #ffed00;
+  -moz-border-radius: 30px;
+  -webkit-border-radius: 50px;
+  border: 5px solid #ccd700;
+}
+
+.warning:active {
+  background: #ccd700;
+  -moz-border-radius: 30px;
+  -webkit-border-radius: 50px;
+  border: 5px solid #ffed00;
+  color: white;
 }
 
 .bad {
@@ -52,12 +76,26 @@
   -webkit-border-radius: 50px;
   border: 5px solid #ac6200;
 }
+.bad .bad:active {
+  background: #ac6200;
+  -moz-border-radius: 30px;
+  -webkit-border-radius: 50px;
+  border: 5px solid orange;
+}
 
 .danger {
   background: red;
   -moz-border-radius: 30px;
   -webkit-border-radius: 50px;
   border: 5px solid #7d0000;
+}
+
+.danger:active {
+  background: #7d0000;
+  -moz-border-radius: 30px;
+  -webkit-border-radius: 50px;
+  border: 5px solid red;
+  color: white;
 }
 
 /*# sourceMappingURL=gtb.css.map */
