@@ -5,6 +5,7 @@ There are many different ways you can use this. Here are some examples.
 ```html
 <div class="container"> </div>
 ```
+<<<<<<< HEAD
 That is just basics with fonts and others
 
 ```html
@@ -14,3 +15,5 @@ That is just basics with fonts and others
 </div>
 ```
 That would add a gray background with the text off the left a little bit. and h2 - h6 is added off the h1.
+=======
+>>>>>>> b7e7a3c49b47d92f7c7afec0efc9b5d87a4255c6
