@@ -11,7 +11,7 @@
 .standard {
   background-color: aqua;
   border: 5px solid #187b7e;
-  margin-left: -5px;
+  margin-left: -2px;
 }
 
 .standard:active {
@@ -23,7 +23,7 @@
 .good {
   background: lightgreen;
   border: 5px solid green;
-  margin-left: -5px;
+  margin-left: -2px;
 }
 
 .good:active {
@@ -35,7 +35,7 @@
 .warning {
   background: #ffed00;
   border: 5px solid #ccd700;
-  margin-left: -5px;
+  margin-left: -2px;
 }
 
 .warning:active {
@@ -47,7 +47,7 @@
 .bad {
   background: orange;
   border: 5px solid #ac6200;
-  margin-left: -5px;
+  margin-left: -2px;
 }
 
 .bad:active {
@@ -59,7 +59,7 @@
 .danger {
   background: red;
   border: 5px solid #7d0000;
-  margin-left: -5px;
+  margin-left: -px;
 }
 
 .danger:active {
