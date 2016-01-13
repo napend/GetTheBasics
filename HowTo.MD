@@ -2,7 +2,9 @@
 
 There are many different ways you can use this. Here are some examples.
 
+```
 Must add this.
+```
 ```html
 <div class="container"> </div>
 ```
@@ -12,10 +14,12 @@ This would add a gray background with the text off the left a little bit. and h2
   <div class="header">
   <h1>GetTheBasics</h1>
   <h3>Get the most done with the least code.</h3>
-  ```
 </div>
-
+  ```
+  
+```
 This is the general buttons. Round, and they change to the size of text. Standerd is light blue, good = green, warning = yellow, bad = ownage, danger = red. 
+```
 ```html
     <button class="btn-gtb standard">standard</button>
     <button class="btn-gtb good">good</button>
