@@ -36,3 +36,25 @@ This is the general buttons. Round, and they change to the size of text. Stander
     <button class="btn-flt bad">bad</button>
     <button class="btn-flt danger">danger</button>
 ```
+
+```
+This is the regulur sized table. To make it 50% big, do <div id="table50"> and 100% just do <div id="table100">.
+```
+```html
+<div id="table">
+        <table>
+          <h1>qlwke</h1>
+          <tr>
+            <td>Jill</td>
+             <td>Smith</td>
+            <td>50</td>
+           </tr>
+          <tr>
+            <td>Eve</td>
+             <td>Jackson</td>
+            <td>94</td>
+           </tr>
+        </table>
+    </div>
+```
+
