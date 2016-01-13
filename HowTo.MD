@@ -25,10 +25,10 @@ This is the general buttons. Round, and they change to the size of text. Stander
 ```
     
     These are the square buttons. Same as general with colors and text sizing.
-    ```html
-      <button class="btn-flt standard">standard</button>
+```html
+    <button class="btn-flt standard">standard</button>
     <button class="btn-flt good">good</button>
     <button class="btn-flt warning">warning</button>
     <button class="btn-flt bad">bad</button>
     <button class="btn-flt danger">danger</button>
-    ```
+```
