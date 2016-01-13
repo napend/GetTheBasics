@@ -22,7 +22,7 @@ This is the general buttons. Round, and they change to the size of text. Stander
     <button class="btn-gtb warning">warning</button>
     <button class="btn-gtb bad">bad</button>
     <button class="btn-gtb danger">danger</button>
-    ```
+```
     
     These are the square buttons. Same as general with colors and text sizing.
     ```html
